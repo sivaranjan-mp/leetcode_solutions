@@ -8,4 +8,3 @@ class Solution(object):
                     op.append(i)
                     op.append(j)
                     return op
-        
